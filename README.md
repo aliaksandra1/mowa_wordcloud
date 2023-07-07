@@ -1,1 +1,1 @@
-# mowa_wordcloud
+This project is a Python-based word cloud generator for the Belarusian language. As data, the project uses poems by the Belarusian poet Yanka Kupala and poems by Belarusian writers about the native language. Project utilizes various libraries such as NLTK, WordCloud, and stanza to preprocess the text, perform morphological analysis, and create visually appealing word clouds. The tool includes the ability to customize parameters like stopwords, mask images, background color, and colormap. 
